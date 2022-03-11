@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -S -c $CFILE main.s
+gcc -S -c $CFILE

@@ -1,1 +1,1 @@
-functions method nested loops
+functions_method nested loops

@@ -3,11 +3,12 @@
 /**
 * _mul - check the code
 *
-* @c: param
+* @a: param
+* @b: param
+*
 * Return: Always 0.
 */
-
 int _mul(int a, int b)
 {
-   return(a*b);
+	return (a * b);
 }

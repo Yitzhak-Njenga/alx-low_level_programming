@@ -1,15 +1,16 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
- * main - Entry point
+ * _isupper - Entry point
+ *
+ * @c: vvnngfhjy
  *
  * Return: Always 0 (Success)
  */
 
 int _isupper(int c)
 {
-	if ((c >= 'A') && (c <= 'Z'))
+	if (isupper(c))
 		return (1);
 	else
 		return (0);

@@ -26,3 +26,12 @@ int _isdigit(int c);
 */
 
 int _mul(int a, int b);
+
+/**
+* _mul - check the code
+*
+* @a: param
+* @b: param
+*
+* Return: Always 0.
+*/

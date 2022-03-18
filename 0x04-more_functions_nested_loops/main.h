@@ -17,3 +17,12 @@ int _isupper(int c);
  */
 
 int _isdigit(int c);
+
+/**
+* _mul - check the code
+*
+* @c: param
+* Return: Always 0.
+*/
+
+int _mul(int a, int b);

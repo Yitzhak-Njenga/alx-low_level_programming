@@ -1,6 +1,6 @@
 #include <string.h>
 #include <stdio.h>
-#include <ctpe.h>
+#include <ctype.h>
 
 /**
 * _isupper - method

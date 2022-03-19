@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-* _mul - check the code
+* mul - check the code
 *
 * @a: param
 * @b: param

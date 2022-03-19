@@ -21,13 +21,6 @@ int _isdigit(int c);
 /**
 * mul - check the code
 *
-* @c: param
-* Return: Always 0.
-*/
-
-/**
-* mul - check the code
-*
 * @a: param
 * @b: param
 *

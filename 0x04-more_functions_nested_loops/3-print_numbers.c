@@ -14,5 +14,5 @@ char a;
 	{
 		putchar(a);
 	}
-	putchar("\n");
+	putchar('\n');
 }

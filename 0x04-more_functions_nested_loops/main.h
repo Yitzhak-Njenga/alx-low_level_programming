@@ -33,5 +33,4 @@ int _isdigit(int c);
 *
 * Return: Always 0.
 */
-
 int _mul(int a, int b);

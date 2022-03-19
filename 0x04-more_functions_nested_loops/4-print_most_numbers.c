@@ -1,10 +1,10 @@
 #include "main.h"
 
 /*
-* @print_most_numbers - print 1 - 9 in form of chars
+* void print_most_numbers - check you done
 *
-* Return: void
-* print_most_numbers - print numbers...
+* Return void
+*
 */
 void print_most_numbers(void)
 {

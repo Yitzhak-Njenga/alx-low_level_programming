@@ -7,7 +7,7 @@
 */
 void reset_to_98(int *n);
 
-/*
+/**
 * swap_int - swaping
 *
 * @a: param

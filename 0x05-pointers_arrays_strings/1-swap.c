@@ -1,6 +1,6 @@
 #include "main.h"
 
-/*
+/**
 * swap_int - swaping
 *
 * @a: param

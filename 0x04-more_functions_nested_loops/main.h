@@ -36,3 +36,10 @@ int mul(int a, int b);
 * Return: void
 */
 void print_most_numbers(void);
+
+/**
+*reset_t0_98 - change value 0f a 
+*
+*/
+
+

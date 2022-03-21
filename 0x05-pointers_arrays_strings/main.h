@@ -27,3 +27,11 @@ void swap_int(int *a, int *b);
 */
 
 int _strlen(char *s);
+
+/**
+* _puts - a function that prints a string
+* @str: string input
+* Return: string
+*/
+
+void _puts(char *str);

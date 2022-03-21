@@ -12,7 +12,7 @@ void _puts(char *str)
 
 	for (i = 0; str[i] != '\0'; i++)
 	{
-		_puts(str[i]);
+		puts(str[i]);
 	}
-	_puts('\n');
+	puts('\n');
 }

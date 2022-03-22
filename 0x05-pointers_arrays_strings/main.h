@@ -1,3 +1,6 @@
+#include <string.h>
+#include <ctype.h>
+
 /**
 *
 * reset_to_98 - reset t0 98

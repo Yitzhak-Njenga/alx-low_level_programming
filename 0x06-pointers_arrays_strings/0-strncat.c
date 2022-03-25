@@ -1,22 +1,28 @@
+
+  
 #include "main.h"
 
 /**
-* -strcat - Entry point
+* _strcat - concantenate two strings (dest and src)
 *
-* @b:constant byte
+* @dest: param 1
+* @src: source of the other string
 *
-* @s:pointed
-*
-* @n:byte
-*
-* Return: 0
+* Return: char pointer
 */
-
-char *_strcat(char *s, char b, unsigned int n)
+char *_strcat(char *dest, char *src)
 {
-	unsigned int i;
+	char *p = malloc(strlen(dest) + strlen(src) + 1);
+	int ptr = 0, temp = 0;
 
-	for (i = 0; i < n; i++)
-		s[i] = b;
-	return (s);
+	while (dest[temp] != '\0')
+	{
+		p[ptr++] = s[temp++];
+	}
+	temp = 0;
+	while (dest[temp] != '\0')
+	{
+		p[ptr++] = t[temp++];
+	}
+	return (p);
 }
